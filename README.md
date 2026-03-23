@@ -1,65 +1,80 @@
 # 👋 Hi, I'm Luke Tyler
 
-🎯 IT Support Professional | Networking | Future Security Specialist  
+IT Support Professional with a focus on networking and continuous skill development.
 
 ---
 
 ## 🧠 About Me
-Entry-level IT Support professional with hands-on experience in troubleshooting, ticketing systems, and user support.  
-Strong foundation in networking concepts through Cisco-based coursework and real-world technical support experience.  
 
-Currently focused on advancing my skills in network infrastructure and security.
+I currently work in a Tier 1 IT support role where I handle user issues, document incidents, and troubleshoot account and system-related problems in a high-volume environment.
+
+My background includes a Cybersecurity associate degree with Cisco-based networking coursework, which gave me a foundation in networking, system basics, and security concepts.
+
+Right now, I’m focused on strengthening my networking knowledge and becoming more confident in troubleshooting real-world IT scenarios.
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 What I Do
 
-**Systems & Tools:**  
-Windows | Linux (Basic) | Wireshark | Azure Fundamentals  
+- Provide Tier 1 technical support (phone, chat, email)
+- Troubleshoot login, access, and basic system issues
+- Document incidents and resolutions in a ticketing system
+- Escalate more complex issues with clear notes and context
+- Work within structured workflows and support procedures
 
-**Networking:**  
-IP Addressing | DNS | DHCP | Network Troubleshooting | Packet Analysis  
+---
+
+## 🛠️ Skills (Current Level)
+
+**Operating Systems:**  
+Windows, Linux (basic familiarity)
+
+**Networking (Foundational):**  
+IP addressing, DNS, DHCP, basic connectivity troubleshooting
 
 **IT Support:**  
-Ticketing Systems | Incident Documentation | User Support | Escalation Procedures  
+Ticketing systems, incident documentation, user support, escalation
 
-**Scripting (Basic):**  
-Python | PowerShell  
+**Tools & Exposure:**  
+Azure fundamentals, Wireshark (basic exposure from coursework)
 
----
-
-## 📂 Projects
-
-### 🔍 Network Traffic Analysis (Wireshark)
-- Captured and analyzed live network traffic  
-- Identified DNS requests and TCP handshakes  
-- Applied filters to isolate specific protocols  
+**Scripting (Beginner):**  
+Python, PowerShell
 
 ---
 
-### 🌐 Network Troubleshooting Lab
-- Diagnosed simulated connectivity issues  
-- Used ping, IP configuration, and DNS checks  
-- Documented step-by-step troubleshooting process  
+## 🎓 Education
+
+Associate of Applied Science – Cybersecurity (Cum Laude)  
+Horry-Georgetown Technical College  
+
+Cisco Networking-based coursework including routing, switching, and network fundamentals.
 
 ---
 
 ## 📜 Certifications
 
-- CompTIA Network+ (In Progress – Expected April 2026)  
-- CompTIA Security+ (Planned)  
+- CompTIA Network+ (In Progress – expected April 2026)
+- CompTIA Security+ (Planned)
 
 ---
 
-## 🚀 Goals
+## 🚀 What I'm Working On
 
-- Earn CompTIA Network+ and Security+  
-- Transition into a Network Support or Security-focused role  
-- Continue building hands-on labs and real-world projects  
+Right now I’m focused on:
+- Strengthening networking fundamentals for Network+
+- Improving troubleshooting speed and confidence
+- Building hands-on labs and documenting what I learn
 
 ---
 
-## 📫 Connect With Me
+## 📈 Goal
 
-📧 LukeG.Tyler@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/lukegtyler  
+To move into a more technical IT or networking role where I can continue developing my skills in infrastructure and security.
+
+---
+
+## 📫 Contact
+
+Email: LukeG.Tyler@gmail.com  
+LinkedIn: https://linkedin.com/in/lukegtyler
