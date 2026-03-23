@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luke Tyler
 
-IT Support Professional with a focus on networking and continuous skill development.
+IT Support Professional with a focus on networking/security and continuous skill development.
 
 ---
 
