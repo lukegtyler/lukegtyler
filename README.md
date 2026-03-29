@@ -6,11 +6,9 @@ IT Support Professional focused on networking, security, and hands-on lab develo
 
 ## 🧠 About Me
 
-I currently work in a Tier 1 IT support role where I troubleshoot user issues, manage account access, and document incidents in a high-volume environment.
+I currently work in a Tier 1 IT support role where I troubleshoot user issues, manage account access, and document incidents in a high-volume environment. 
 
-I hold an Associate degree in Cybersecurity with Cisco-based networking coursework, giving me a strong foundation in networking, systems, and security principles.
-
-I’m actively building hands-on labs to strengthen my real-world skills in networking, troubleshooting, and infrastructure.
+I hold an Associate degree in Cybersecurity with Cisco-based networking coursework, and I am actively building hands-on labs to strengthen my skills in networking, troubleshooting, and infrastructure.
 
 ---
 
@@ -79,8 +77,7 @@ Cisco-focused coursework in routing, switching, and networking fundamentals.
 
 ## 📈 Career Goal
 
-To transition into a networking or infrastructure-focused role and continue growing toward cloud and security engineering.
-
+To transition into a networking or infrastructure-focused role and continue developing toward cloud and security engineering.
 ---
 
 ## 📫 Contact
