@@ -77,7 +77,7 @@ Cisco-focused coursework in routing, switching, and networking fundamentals.
 
 ## 📈 Career Goal
 
-To transition into a networking or infrastructure-focused role and continue developing toward cloud and security engineering.
+- To transition into a networking or infrastructure-focused role and continue developing toward cloud and security engineering.
 ---
 
 ## 📫 Contact
