@@ -1,80 +1,92 @@
 # 👋 Hi, I'm Luke Tyler
 
-IT Support Professional with a focus on networking/security and continuous skill development.
+IT Support Professional focused on networking, security, and hands-on lab development.
 
 ---
 
 ## 🧠 About Me
 
-I currently work in a Tier 1 IT support role where I handle user issues, document incidents, and troubleshoot account and system-related problems in a high-volume environment.
+I currently work in a Tier 1 IT support role where I troubleshoot user issues, manage account access, and document incidents in a high-volume environment.
 
-My background includes a Cybersecurity associate degree with Cisco-based networking coursework, which gave me a foundation in networking, system basics, and security concepts.
+I hold an Associate degree in Cybersecurity with Cisco-based networking coursework, giving me a strong foundation in networking, systems, and security principles.
 
-Right now, I’m focused on strengthening my networking knowledge and becoming more confident in troubleshooting real-world IT scenarios.
-
----
-
-## 💼 What I Do
-
-- Provide Tier 1 technical support (phone, chat, email)
-- Troubleshoot login, access, and basic system issues
-- Document incidents and resolutions in a ticketing system
-- Escalate more complex issues with clear notes and context
-- Work within structured workflows and support procedures
+I’m actively building hands-on labs to strengthen my real-world skills in networking, troubleshooting, and infrastructure.
 
 ---
 
-## 🛠️ Skills (Current Level)
+## 💼 Experience
 
-**Operating Systems:**  
-Windows, Linux (basic familiarity)
+* Provide Tier 1 technical support (phone, chat, email)
+* Troubleshoot account, access, and system-related issues
+* Document incidents and resolutions in a ticketing system
+* Escalate complex issues with clear technical notes
+* Follow structured workflows and support procedures
 
-**Networking (Foundational):**  
-IP addressing, DNS, DHCP, basic connectivity troubleshooting
+---
 
-**IT Support:**  
+## 🛠️ Technical Skills
+
+**Operating Systems:**
+Windows, Linux (basic)
+
+**Networking:**
+IP addressing, DNS, DHCP, VLANs, basic routing & connectivity troubleshooting
+
+**IT Support:**
 Ticketing systems, incident documentation, user support, escalation
 
-**Tools & Exposure:**  
-Azure fundamentals, Wireshark (basic exposure from coursework)
+**Tools & Exposure:**
+Azure fundamentals, Wireshark (packet analysis – basic)
 
-**Scripting (Beginner):**  
+**Scripting (Beginner):**
 Python, PowerShell
+
+---
+
+## 🧪 Projects
+
+* **Enterprise Multi-Site VoIP Network**
+  Built a multi-site network with VLANs, OSPF routing, NAT, DHCP, DNS, VoIP communication, HSRP redundancy, and EtherChannel.
+
+* **Network Security ACL Lab**
+  Configured extended ACLs to control traffic between hosts and services, enforcing real-world security policies.
+
+* **Active Directory Lab** *(In Progress)*
+  Building a domain environment with user management, organizational units, and Group Policy.
 
 ---
 
 ## 🎓 Education
 
-Associate of Applied Science – Cybersecurity (Cum Laude)  
-Horry-Georgetown Technical College  
+Associate of Applied Science – Cybersecurity (Cum Laude)
+Horry-Georgetown Technical College
 
-Cisco Networking-based coursework including routing, switching, and network fundamentals.
+Cisco-focused coursework in routing, switching, and networking fundamentals.
 
 ---
 
 ## 📜 Certifications
 
-- CompTIA Network+ (In Progress – expected April 2026)
-- CompTIA Security+ (Planned)
+* CompTIA Network+ (In Progress – April 2026)
+* CompTIA Security+ (Planned)
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-Right now I’m focused on:
-- Strengthening networking fundamentals for Network+
-- Improving troubleshooting speed and confidence
-- Building hands-on labs and documenting what I learn
+* Advancing networking knowledge (Network+ → CCNA path)
+* Strengthening troubleshooting and real-world problem solving
+* Building hands-on labs and documenting projects on GitHub
 
 ---
 
-## 📈 Goal
+## 📈 Career Goal
 
-To move into a more technical IT or networking role where I can continue developing my skills in infrastructure and security.
+To transition into a networking or infrastructure-focused role and continue growing toward cloud and security engineering.
 
 ---
 
 ## 📫 Contact
 
-Email: LukeG.Tyler@gmail.com  
+Email: [LukeG.Tyler@gmail.com](mailto:LukeG.Tyler@gmail.com)
 LinkedIn: https://linkedin.com/in/lukegtyler
