@@ -35,9 +35,6 @@ IP addressing, DNS, DHCP, VLANs, basic routing & connectivity troubleshooting
 **IT Support:**
 Ticketing systems, incident documentation, user support, escalation
 
-**Tools & Exposure:**
-Azure fundamentals, Wireshark (packet analysis – basic)
-
 **Scripting (Beginner):**
 Python, PowerShell
 
@@ -45,16 +42,14 @@ Python, PowerShell
 
 ## 🧪 Projects
 
-* **Enterprise Multi-Site VoIP Network**
-  Built a multi-site network with VLANs, OSPF routing, NAT, DHCP, DNS, VoIP communication, HSRP redundancy, and EtherChannel.
-  Link: https://github.com/lukegtyler/voip-enterprise-network
+* [Enterprise Multi-Site VoIP Network](https://github.com/lukegtyler/voip-enterprise-network)
+  Multi-site enterprise network built in Cisco Packet Tracer featuring VLAN segmentation, OSPF routing, NAT, DHCP, DNS, VoIP communication, HSRP redundancy, and EtherChannel.
 
-* **Network Security ACL Lab**
-  Configured extended ACLs to control traffic between hosts and services, enforcing real-world security policies.
-  Link: https://github.com/lukegtyler/network-security-acl
+* [Network Security ACL Lab](https://github.com/lukegtyler/network-security-acl)
+  Implemented extended IPv4 ACLs to control and restrict traffic by protocol and host, demonstrating real-world network security policy enforcement.
 
 * **Active Directory Lab** *(In Progress)*
-  Building a domain environment with user management, organizational units, and Group Policy.
+  Building a domain environment with user accounts, organizational units, and Group Policy to simulate enterprise identity and access management.
 
 ---
 
